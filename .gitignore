@@ -1,4 +1,4 @@
-dataset/ 
+dataset/*.txt 
 *.txt
 *.gz
 *.graphml

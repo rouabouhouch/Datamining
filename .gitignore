@@ -1,4 +1,4 @@
-datasetfb/
+dataset/ 
 *.txt
 *.gz
 *.graphml
